@@ -1,5 +1,5 @@
 # Credit Default Prediction & Financial Loss Analysis
-This project uses 10 borrower variables (age, income, debt ratio, credit utilization, past-due history, and others) to predict whether a borrower is likely to default, so the bank can decide who should be approved.
+This project uses 10 borrower variables (age, income, debt ratio, credit utilization, past-due history...etc) to predict whether a borrower is likely to default, so the bank can decide who should be approved.
 
 **Data**: Kaggle [Give Me Some Credit](https://www.kaggle.com/competitions/GiveMeSomeCredit/overview) (150,000 borrower records)
 
