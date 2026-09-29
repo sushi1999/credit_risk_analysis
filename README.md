@@ -4,7 +4,7 @@ This project uses 10 borrower variables (age, income, debt ratio, credit utiliza
 **Data**: Kaggle [Give Me Some Credit](https://www.kaggle.com/competitions/GiveMeSomeCredit/overview) (150,000 borrower records)
 
 **What this project does**:
-- Builds and compares Logistic Regression and Decision Tree models (AUC ~0.86)
+- Builds and compares Logistic Regression and Decision Tree models (AUC ~0.85)
 - Translates model errors (missed defaulters) into estimated dollar losses for the bank
 - Tunes the classification threshold on a validation set to minimize total cost
 - Tests how sensitive the recommended threshold is to the underlying cost assumptions
