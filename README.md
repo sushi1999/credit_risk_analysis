@@ -10,7 +10,7 @@ This project uses 10 borrower variables (age, income, debt ratio, credit utiliza
 - Tests how sensitive the recommended threshold is to the underlying cost assumptions
 
 **Files**:
-- `credit_risk_analysis0926.ipynb` — full analysis, runnable end-to-end
-- `cs-training.csv` — dataset
+- `credit_risk_analysis0926.ipynb` - full analysis, runnable end-to-end
+- `cs-training.csv` - dataset
 
 **To run**: open the notebook in Jupyter; requires pandas, numpy, scikit-learn, matplotlib, seaborn.
